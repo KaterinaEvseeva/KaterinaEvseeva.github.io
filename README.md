@@ -5,3 +5,7 @@
 ### Validation Form for registration. It validates name, e-mail, phone, web-site. This made too check knowleges and pass sprint at Yandex.Praktikum
 #### JS, CSS, HTML, GIT
 #### To open project clone it with GIT or download and open with any redactor you have.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8a8fc7c65260e7e1d7aef56ed5856919fe7fa2a1
